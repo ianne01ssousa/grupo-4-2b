@@ -1,0 +1,44 @@
+<html>
+  <head><
+    <body>
+      <button> Tosnos</button>
+      <ul>
+        <button>home</button>
+        <button>Product</button>
+        <button>feature</button>
+        <button>pricing</button>
+      </ul>
+      <button>sign up</button>
+      <button>log in</button>
+      <nav>
+        <button> BEST SOFTWARE SERVICE</button>
+      </nav>
+      <nav>
+        <h1>create e analytics all necessaries </h1>
+        <h5> manage your all documents transoarent, safe and secure. we provide world's </h5>
+        <a href="#"><img src="#"></a>
+      </nav>
+      <button>get started</button>
+      <button>explore more</button>
+      <ul>
+      <h4> we are trusted by </h4>
+      </ul>
+        <a href="#">netflix</a>
+        <a href="#">slack</a>
+        <a href="#">converse</a>
+        <a href="#">shazam</a>
+        <a href="#">prada</a>
+      </ul>
+      <ul>
+      <button> features</button>
+        <h3> most essential features</h3>
+        <h6> lorem ipsum dolor sit amet consectetur. neque vel orci egetrhoncus pretium. proin ultrices elementum aliquet </h6>
+    </ul>
+    <button> service godown</button>
+    <ul>
+    <a href="#">flexibility</a>
+      <a href="#">vast storage</a>
+      <a href="#">latest analytics</a>
+      </body>
+  </head>
+</html>
