@@ -1,0 +1,23 @@
+html>
+  <head>
+    <body>
+      <img src="#">
+      <h4> new opportunity</h4>
+      <button>available</button>
+      <nav>
+      <img src="#">
+        <h5> Jenifer A. meta-facebook . california</h5>
+        <h2>$35,000- 45,000</h2>
+        <h4>14 oct-2024 </h4>
+        <h4>85.5% match</h4>
+        <button> 4.9 </button>
+        <button> web design</button>
+        <button> responsive</button>
+        <h6>need responsive website showcase product modern and visually appealing desing.</h6>
+        <img src="#">
+        <h5> robert T. full cycle agency . salt lake</h5>
+        <button> accept project</button>
+        <button> decline offer</button>
+        </body>
+      </head>
+    </html>
